@@ -22,7 +22,7 @@ export default function App() {
         }}
       >
         <Stack.Screen name="Home" component={Home} />
-  
+        <Stack.Screen name="Home" component={Home} />
         <Stack.Screen name="Post" component={Post} />
 
       </Stack.Navigator>
